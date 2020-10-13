@@ -11,7 +11,7 @@
     <script>
       window.onload = () => {
         let display = document.getElementById("theEarthObjectsDisplay")
-        display.innerHTML = JSON.stringify(theEarthObjectJS);
+        display.innerHTML = JSON.stringify(theEarthObjectJS, null, 2);
       }
     </script>
   </head>
@@ -30,7 +30,7 @@
       </div>
       <div class="row">
         <div class="col">
-          <div id="theEarthObjectsDisplay"></div>
+          <pre id="theEarthObjectsDisplay"></pre>
         </div>
       </div>
       <div class="row py-5">

@@ -1,5 +1,5 @@
 const theEarthObjectJS = {
-  continents: { 
+  continents: {
     africa: {
       "wikipedia_link": "https://en.wikipedia.org/wiki/Africa"
     },
@@ -15,8 +15,8 @@ const theEarthObjectJS = {
     northAmerica: {
       "wikipedia_link": "https://en.wikipedia.org/wiki/North_America"
     },
-    australia: {
-      "wikipedia_link": "https://en.wikipedia.org/wiki/Australia"
+    oceania: {
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Oceania"
     },
     southAmerica: {
       "wikipedia_link": "https://en.wikipedia.org/wiki/South_America"
