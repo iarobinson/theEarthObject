@@ -10,19 +10,24 @@ const theEarthObjectJS = {
   },
   oceans: {
     arctic: {
-      description: ""
+      description: "",
+      wikipedia_link: "https://wikipedia.org/wiki/Arctic_Ocean"
     },
-    atlatic: {
-      description: ""
+    atlantic: {
+      description: "",
+      wikipedia_link: "https://wikipedia.org/wiki/Atlantic_Ocean"
     },
     pacific: {
-      description: ""
+      description: "",
+      wikipedia_link: "https://wikipedia.org/wiki/Pacific_Ocean"
     },
     indian: {
-      description: ""
+      description: "",
+      wikipedia_link: "https://wikipedia.org/wiki/Indian_Ocean"
     },
     southern: {
-      description: ""
+      description: "",
+      wikipedia_link: "https://wikipedia.org/wiki/Southern_Ocean"
     }
   }
 }
