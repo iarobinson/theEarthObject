@@ -1,0 +1,11 @@
+.string { color: #859900; }
+.number { color: #cb4b16; }
+.boolean { color: #2aa198; }
+.null { color: #cb4b16; }
+.key { color: #b58900; }
+.logo { margin: auto ; display: block; height: 30vh; }
+body { max-width: 1000px;}
+
+
+.oceanBlue { color: #49b8ea; }
+.earthGreen { color: #3fdbbd; }
