@@ -1,5 +1,5 @@
 const theEarthObjectJS = {
-  continents: {
+  continents: { 
     africa: {
       "wikipedia_link": "https://en.wikipedia.org/wiki/Africa"
     },
