@@ -24,18 +24,23 @@ const theEarthObjectJS = {
   },
   oceans: {
     arctic: {
+      wikipedia_link: "https://en.wikipedia.org/wiki/Arctic_Ocean",
       description: ""
     },
-    atlatic: {
+    atlantic: {
+      wikipedia_link: "https://en.wikipedia.org/wiki/Atlantic_Ocean",
       description: ""
     },
     pacific: {
+      wikipedia_link: "https://en.wikipedia.org/wiki/Pacific_Ocean",
       description: ""
     },
     indian: {
+      wikipedia_link: "https://en.wikipedia.org/wiki/Indian_Ocean",
       description: ""
     },
     southern: {
+      wikipedia_link: "https://en.wikipedia.org/wiki/Southern_Ocean",
       description: ""
     }
   }
