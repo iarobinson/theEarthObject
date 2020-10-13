@@ -20,7 +20,7 @@ const theEarthObjectJS = {
     },
     southAmerica: {
       "wikipedia_link": "https://en.wikipedia.org/wiki/South_America"
-    },
+    }
   },
   oceans: {
     arctic: {
