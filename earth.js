@@ -19,8 +19,27 @@ const theEarthObjectJS = {
       "wikipedia_link": "https://en.wikipedia.org/wiki/Oceania"
     },
     southAmerica: {
-      "wikipedia_link": "https://en.wikipedia.org/wiki/South_America"
+      nationStates: {
+        "Argentina": {},
+        "Bolivia": {},
+        "Bouvet Island": {},
+        "Brazil": {},
+        "Chile": {},
+        "Columbia": {},
+        "Ecuador": {},
+        "Falkland Islands": {},
+        "French Guiana": {},
+        "Guyana": {},
+        "Paraguay": {},
+        "Peru": {},
+        "South Georgia and the South Sandwich Islands": {},
+        "Suriname": {},
+        "Uruguay": {},
+        "Venezuela": {}
+      },
+      wikipedia_link: "https://en.wikipedia.org/wiki/South_America"
     }
+
   },
   oceans: {
     arctic: {
