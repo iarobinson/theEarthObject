@@ -1,25 +1,49 @@
 const theEarthObjectJS = {
   continents: {
     africa: {
-      "wikipedia_link": "https://en.wikipedia.org/wiki/Africa"
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Africa",
+
+      morocco: {
+        flag: "/assets/flags/africa/morocco.png" 
+      },
     },
     antarctica: {
       "wikipedia_link": "https://en.wikipedia.org/wiki/Antarctica"
     },
     asia: {
-      "wikipedia_link": "https://en.wikipedia.org/wiki/Asia"
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Asia",
+
+      korea: {
+        flag: "/assets/flags/asia/korea.png" 
+      },
     },
     europe: {
-      "wikipedia_link": "https://en.wikipedia.org/wiki/Europe"
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Europe",
+
+      germany: {
+        flag: "/assets/flags/europe/germany.png" 
+      },
     },
     northAmerica: {
-      "wikipedia_link": "https://en.wikipedia.org/wiki/North_America"
+      "wikipedia_link": "https://en.wikipedia.org/wiki/North_America",
+
+      mexico: {
+        flag: "/assets/flags/northAmerica/mexico.png" 
+      },
     },
     oceania: {
-      "wikipedia_link": "https://en.wikipedia.org/wiki/Oceania"
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Oceania",
+
+      australia: {
+        flag: "/assets/flags/oceania/australia.png" 
+      },
     },
     southAmerica: {
-      "wikipedia_link": "https://en.wikipedia.org/wiki/South_America"
+      "wikipedia_link": "https://en.wikipedia.org/wiki/South_America",
+
+      brazil: {
+        flag: "/assets/flags/southAmerica/brazil.png" 
+      },
     }
   },
   oceans: {
