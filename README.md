@@ -8,4 +8,6 @@ This is a brand new repo. I'm hoping that this will be a useful exercise for ear
 
 ## Contributing
 
+# We love 😘💕 your contributions.
+
 If you need help on learning to contribute, I _think_ [this video](https://youtu.be/CL43zp0jlpc) describes the process. [This repo also looks like a great resource for early stage programmers](https://github.com/firstcontributions/first-contributions).
