@@ -45,3 +45,5 @@ const theEarthObjectJS = {
     }
   }
 }
+
+console.log(theEarthObjectJS.continents.africa.wikipedia_link)
