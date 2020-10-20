@@ -169,4 +169,4 @@ const theEarthObjectJS = {
       }
    }
 }
-console.log(theEarthObject)
+console.log(theEarthObjectJS);
