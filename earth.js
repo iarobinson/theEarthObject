@@ -46,7 +46,7 @@ const theEarthObjectJS = {
         "Bouvet Island": {},
         "Brazil": {
           flag: "/assets/flags/southAmerica/brazil.png" 
-        }
+        },
         "Chile": {},
         "Columbia": {},
         "Ecuador": {},
