@@ -4,7 +4,7 @@ const theEarthObjectJS = {
       "wikipedia_link": "https://en.wikipedia.org/wiki/Africa",
 
       morocco: {
-        flag: "/assets/flags/africa/morocco.png" 
+        flag: "/assets/flags/africa/morocco.png"
       },
     },
     antarctica: {
@@ -14,28 +14,28 @@ const theEarthObjectJS = {
       "wikipedia_link": "https://en.wikipedia.org/wiki/Asia",
 
       korea: {
-        flag: "/assets/flags/asia/korea.png" 
+        flag: "/assets/flags/asia/korea.png"
       },
     },
     europe: {
       "wikipedia_link": "https://en.wikipedia.org/wiki/Europe",
 
       germany: {
-        flag: "/assets/flags/europe/germany.png" 
+        flag: "/assets/flags/europe/germany.png"
       },
     },
     northAmerica: {
       "wikipedia_link": "https://en.wikipedia.org/wiki/North_America",
 
       mexico: {
-        flag: "/assets/flags/northAmerica/mexico.png" 
+        flag: "/assets/flags/northAmerica/mexico.png"
       },
     },
     oceania: {
       "wikipedia_link": "https://en.wikipedia.org/wiki/Oceania",
 
       australia: {
-        flag: "/assets/flags/oceania/australia.png" 
+        flag: "/assets/flags/oceania/australia.png"
       },
     },
     southAmerica: {
@@ -45,7 +45,7 @@ const theEarthObjectJS = {
         "Bolivia": {},
         "Bouvet Island": {},
         "Brazil": {
-          flag: "/assets/flags/southAmerica/brazil.png" 
+          flag: "/assets/flags/southAmerica/brazil.png"
         },
         "Chile": {},
         "Columbia": {},
@@ -169,3 +169,5 @@ const theEarthObjectJS = {
       }
    }
 }
+
+console.log(theEarthObjectJS);
