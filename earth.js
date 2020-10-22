@@ -169,4 +169,5 @@ const theEarthObjectJS = {
       }
    }
 }
+
 console.log(theEarthObjectJS);
