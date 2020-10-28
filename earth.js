@@ -94,24 +94,51 @@ const theEarthObjectJS = {
     southAmerica: {
       "wikipediaLink": "https://en.wikipedia.org/wiki/South_America",
       nationStates: {
-        "Argentina": {},
-        "Bolivia": {},
-        "Bouvet Island": {},
+        "Argentina": {
+          flag: "/assets/flags/southAmerica/argentina.png"
+        },
+        "Bolivia": {
+          flag: "/assets/flags/southAmerica/bolivia.png"
+        },
         "Brazil": {
           flag: "/assets/flags/southAmerica/brazil.png"
         },
-        "Chile": {},
-        "Columbia": {},
-        "Ecuador": {},
-        "Falkland Islands": {},
-        "French Guiana": {},
-        "Guyana": {},
-        "Paraguay": {},
-        "Peru": {},
-        "South Georgia and the South Sandwich Islands": {},
-        "Suriname": {},
-        "Uruguay": {},
-        "Venezuela": {}
+        "Chile": {
+          flag: "/assets/flags/southAmerica/chile.png"
+        },
+        "Colombia": {
+          flag: "/assets/flags/southAmerica/colombia.png"
+        },
+        "Ecuador": {
+          flag: "/assets/flags/southAmerica/ecuador.png"
+        },
+        "Falkland Islands": {
+          flag: "/assets/flags/southAmerica/falkland_islands.png"
+        },
+        "French Guiana": {
+          flag: "/assets/flags/southAmerica/french_guiana.png"
+        },
+        "Guyana": {
+          flag: "/assets/flags/southAmerica/guyana.png"
+        },
+        "Paraguay": {
+          flag: "/assets/flags/southAmerica/paraguay.png"
+        },
+        "Peru": {
+          flag: "/assets/flags/southAmerica/peru.png"
+        },
+        "South Georgia and the South Sandwich Islands": {
+          flag: "/assets/flags/southAmerica/south_georgia_and_the_south_sandwich_islands.png"
+        },
+        "Suriname": {
+          flag: "/assets/flags/southAmerica/suriname.png"
+        },
+        "Uruguay": {
+          flag: "/assets/flags/southAmerica/uruguay.png"
+        },
+        "Venezuela": {
+          flag: "/assets/flags/southAmerica/venezuela.png"
+        }
       },
     }
 
